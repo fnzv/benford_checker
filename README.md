@@ -52,7 +52,7 @@ Distribution of first digits inside the page:
 
 
 # Using the data on Google Sheets
-After gathering some useful datasets you can display your results on Google sheets and obtain some insights:
+After gathering some datasets you can display your results on Google sheets and obtain some useful insights (paste the CSV on the sheet and split by comma then you can sum or use graphs):
 <br>
 ![](imgs/xls-screen.png?raw=true)
 
